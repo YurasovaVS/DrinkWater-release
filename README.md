@@ -1,2 +1,5 @@
 # DrinkWater
-Little app that reminds user to drink water every hour
+
+Небольшое приложение, которое напоминает пользователю пить воду каждый час.
+
+Для установки - запустите MSI файл и следуйте инструкции.
